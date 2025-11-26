@@ -1,2 +1,3 @@
-# basic-hyprland-setup
-This is simple setup for Hyprland (Starter) 
+# Basic Hyprland Setup
+
+This is simple setup for Hyprland (Starter)
