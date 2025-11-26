@@ -1,0 +1,1 @@
+stow -d ~/projects/basic-hyprland-setup/ -t ~/ Dotfiles-Hyprland
